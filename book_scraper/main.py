@@ -39,7 +39,8 @@ async def most_expensive_book_on_page(page):
             most_expensive_book_tile = await titles.nth(i).get_attribute("title")
             href = await titles.nth(i).get_attribute("href")
             most_expensive_book_link = urljoin(page.url, href)
-
+   
+    
     return biggest_price, most_expensive_book_tile, most_expensive_book_link
 
 
@@ -75,6 +76,7 @@ async def extrair_maior_preco_categoria(context, url, sem):
             return {
                 "nome_categoria": nome_categoria,
                 "maior_preco": biggest_price,
+                "maior_preco_formatado": f"£{biggest_price:.2f}",
                 "livro_mais_caro": most_expensive_book_title,
                 "url_livro": most_expensive_book_link,
                 "categoria_url": url,

@@ -2,6 +2,7 @@
     {
         "nome_categoria": "Travel",
         "maior_preco": 56.88,
+        "maior_preco_formatado": "£56.88",
         "livro_mais_caro": "A Year in Provence (Provence #1)",
         "url_livro": "https://books.toscrape.com/catalogue/a-year-in-provence-provence-1_421/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/travel_2/index.html"
@@ -9,6 +10,7 @@
     {
         "nome_categoria": "Mystery",
         "maior_preco": 59.48,
+        "maior_preco_formatado": "£59.48",
         "livro_mais_caro": "Boar Island (Anna Pigeon #19)",
         "url_livro": "https://books.toscrape.com/catalogue/boar-island-anna-pigeon-19_613/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html"
@@ -16,6 +18,7 @@
     {
         "nome_categoria": "Historical Fiction",
         "maior_preco": 55.55,
+        "maior_preco_formatado": "£55.55",
         "livro_mais_caro": "The Last Painting of Sara de Vos",
         "url_livro": "https://books.toscrape.com/catalogue/the-last-painting-of-sara-de-vos_259/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/historical-fiction_4/index.html"
@@ -23,6 +26,7 @@
     {
         "nome_categoria": "Sequential Art",
         "maior_preco": 57.62,
+        "maior_preco_formatado": "£57.62",
         "livro_mais_caro": "El Deafo",
         "url_livro": "https://books.toscrape.com/catalogue/el-deafo_691/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/sequential-art_5/index.html"
@@ -30,6 +34,7 @@
     {
         "nome_categoria": "Classics",
         "maior_preco": 58.63,
+        "maior_preco_formatado": "£58.63",
         "livro_mais_caro": "Candide",
         "url_livro": "https://books.toscrape.com/catalogue/candide_316/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/classics_6/index.html"
@@ -37,6 +42,7 @@
     {
         "nome_categoria": "Philosophy",
         "maior_preco": 58.11,
+        "maior_preco_formatado": "£58.11",
         "livro_mais_caro": "The Death of Humanity: and the Case for Life",
         "url_livro": "https://books.toscrape.com/catalogue/the-death-of-humanity-and-the-case-for-life_932/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/philosophy_7/index.html"
@@ -44,6 +50,7 @@
     {
         "nome_categoria": "Romance",
         "maior_preco": 59.99,
+        "maior_preco_formatado": "£59.99",
         "livro_mais_caro": "The Perfect Play (Play by Play #1)",
         "url_livro": "https://books.toscrape.com/catalogue/the-perfect-play-play-by-play-1_352/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/romance_8/index.html"
@@ -51,6 +58,7 @@
     {
         "nome_categoria": "Womens Fiction",
         "maior_preco": 57.36,
+        "maior_preco_formatado": "£57.36",
         "livro_mais_caro": "I Had a Nice Time And Other Lies...: How to find love & sh*t like that",
         "url_livro": "https://books.toscrape.com/catalogue/i-had-a-nice-time-and-other-lies-how-to-find-love-sht-like-that_814/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/womens-fiction_9/index.html"
@@ -58,6 +66,7 @@
     {
         "nome_categoria": "Fiction",
         "maior_preco": 59.98,
+        "maior_preco_formatado": "£59.98",
         "livro_mais_caro": "Last One Home (New Beginnings #1)",
         "url_livro": "https://books.toscrape.com/catalogue/last-one-home-new-beginnings-1_383/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/fiction_10/index.html"
@@ -65,6 +74,7 @@
     {
         "nome_categoria": "Childrens",
         "maior_preco": 58.08,
+        "maior_preco_formatado": "£58.08",
         "livro_mais_caro": "The White Cat and the Monk: A Retelling of the Poem “Pangur Bán”",
         "url_livro": "https://books.toscrape.com/catalogue/the-white-cat-and-the-monk-a-retelling-of-the-poem-pangur-ban_865/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/childrens_11/index.html"
@@ -72,6 +82,7 @@
     {
         "nome_categoria": "Religion",
         "maior_preco": 57.49,
+        "maior_preco_formatado": "£57.49",
         "livro_mais_caro": "The Bhagavad Gita",
         "url_livro": "https://books.toscrape.com/catalogue/the-bhagavad-gita_60/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/religion_12/index.html"
@@ -79,6 +90,7 @@
     {
         "nome_categoria": "Nonfiction",
         "maior_preco": 59.9,
+        "maior_preco_formatado": "£59.90",
         "livro_mais_caro": "The Diary of a Young Girl",
         "url_livro": "https://books.toscrape.com/catalogue/the-diary-of-a-young-girl_634/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/nonfiction_13/index.html"
@@ -86,6 +98,7 @@
     {
         "nome_categoria": "Music",
         "maior_preco": 57.25,
+        "maior_preco_formatado": "£57.25",
         "livro_mais_caro": "Our Band Could Be Your Life: Scenes from the American Indie Underground, 1981-1991",
         "url_livro": "https://books.toscrape.com/catalogue/our-band-could-be-your-life-scenes-from-the-american-indie-underground-1981-1991_985/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/music_14/index.html"
@@ -93,6 +106,7 @@
     {
         "nome_categoria": "Default",
         "maior_preco": 58.87,
+        "maior_preco_formatado": "£58.87",
         "livro_mais_caro": "Unlimited Intuition Now",
         "url_livro": "https://books.toscrape.com/catalogue/unlimited-intuition-now_578/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/default_15/index.html"
@@ -100,6 +114,7 @@
     {
         "nome_categoria": "Science Fiction",
         "maior_preco": 54.86,
+        "maior_preco_formatado": "£54.86",
         "livro_mais_caro": "Dune (Dune #1)",
         "url_livro": "https://books.toscrape.com/catalogue/dune-dune-1_151/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/science-fiction_16/index.html"
@@ -107,6 +122,7 @@
     {
         "nome_categoria": "Sports and Games",
         "maior_preco": 51.22,
+        "maior_preco_formatado": "£51.22",
         "livro_mais_caro": "Friday Night Lights: A Town, a Team, and a Dream",
         "url_livro": "https://books.toscrape.com/catalogue/friday-night-lights-a-town-a-team-and-a-dream_158/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/sports-and-games_17/index.html"
@@ -114,6 +130,7 @@
     {
         "nome_categoria": "Add a comment",
         "maior_preco": 59.15,
+        "maior_preco_formatado": "£59.15",
         "livro_mais_caro": "The Gray Rhino: How to Recognize and Act on the Obvious Dangers We Ignore",
         "url_livro": "https://books.toscrape.com/catalogue/the-gray-rhino-how-to-recognize-and-act-on-the-obvious-dangers-we-ignore_638/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/add-a-comment_18/index.html"
@@ -121,6 +138,7 @@
     {
         "nome_categoria": "Fantasy",
         "maior_preco": 58.75,
+        "maior_preco_formatado": "£58.75",
         "livro_mais_caro": "Myriad (Prentor #1)",
         "url_livro": "https://books.toscrape.com/catalogue/myriad-prentor-1_36/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/fantasy_19/index.html"
@@ -128,6 +146,7 @@
     {
         "nome_categoria": "New Adult",
         "maior_preco": 58.35,
+        "maior_preco_formatado": "£58.35",
         "livro_mais_caro": "Shameless",
         "url_livro": "https://books.toscrape.com/catalogue/shameless_52/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/new-adult_20/index.html"
@@ -135,6 +154,7 @@
     {
         "nome_categoria": "Young Adult",
         "maior_preco": 58.14,
+        "maior_preco_formatado": "£58.14",
         "livro_mais_caro": "Aristotle and Dante Discover the Secrets of the Universe (Aristotle and Dante Discover the Secrets of the Universe #1)",
         "url_livro": "https://books.toscrape.com/catalogue/aristotle-and-dante-discover-the-secrets-of-the-universe-aristotle-and-dante-discover-the-secrets-of-the-universe-1_663/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/young-adult_21/index.html"
@@ -142,6 +162,7 @@
     {
         "nome_categoria": "Science",
         "maior_preco": 57.36,
+        "maior_preco_formatado": "£57.36",
         "livro_mais_caro": "Immunity: How Elie Metchnikoff Changed the Course of Modern Medicine",
         "url_livro": "https://books.toscrape.com/catalogue/immunity-how-elie-metchnikoff-changed-the-course-of-modern-medicine_900/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/science_22/index.html"
@@ -149,6 +170,7 @@
     {
         "nome_categoria": "Poetry",
         "maior_preco": 57.31,
+        "maior_preco_formatado": "£57.31",
         "livro_mais_caro": "Slow States of Collapse: Poems",
         "url_livro": "https://books.toscrape.com/catalogue/slow-states-of-collapse-poems_960/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/poetry_23/index.html"
@@ -156,6 +178,7 @@
     {
         "nome_categoria": "Paranormal",
         "maior_preco": 15.4,
+        "maior_preco_formatado": "£15.40",
         "livro_mais_caro": "Vampire Knight, Vol. 1 (Vampire Knight #1)",
         "url_livro": "https://books.toscrape.com/catalogue/vampire-knight-vol-1-vampire-knight-1_93/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/paranormal_24/index.html"
@@ -163,6 +186,7 @@
     {
         "nome_categoria": "Art",
         "maior_preco": 49.05,
+        "maior_preco_formatado": "£49.05",
         "livro_mais_caro": "Feathers: Displays of Brilliant Plumage",
         "url_livro": "https://books.toscrape.com/catalogue/feathers-displays-of-brilliant-plumage_695/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/art_25/index.html"
@@ -170,6 +194,7 @@
     {
         "nome_categoria": "Psychology",
         "maior_preco": 59.95,
+        "maior_preco_formatado": "£59.95",
         "livro_mais_caro": "Civilization and Its Discontents",
         "url_livro": "https://books.toscrape.com/catalogue/civilization-and-its-discontents_140/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/psychology_26/index.html"
@@ -177,6 +202,7 @@
     {
         "nome_categoria": "Autobiography",
         "maior_preco": 59.04,
+        "maior_preco_formatado": "£59.04",
         "livro_mais_caro": "Life Without a Recipe",
         "url_livro": "https://books.toscrape.com/catalogue/life-without-a-recipe_188/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/autobiography_27/index.html"
@@ -184,6 +210,7 @@
     {
         "nome_categoria": "Parenting",
         "maior_preco": 37.35,
+        "maior_preco_formatado": "£37.35",
         "livro_mais_caro": "Catastrophic Happiness: Finding Joy in Childhood's Messy Years",
         "url_livro": "https://books.toscrape.com/catalogue/catastrophic-happiness-finding-joy-in-childhoods-messy-years_138/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/parenting_28/index.html"
@@ -191,6 +218,7 @@
     {
         "nome_categoria": "Adult Fiction",
         "maior_preco": 15.36,
+        "maior_preco_formatado": "£15.36",
         "livro_mais_caro": "Fifty Shades Freed (Fifty Shades #3)",
         "url_livro": "https://books.toscrape.com/catalogue/fifty-shades-freed-fifty-shades-3_156/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/adult-fiction_29/index.html"
@@ -198,6 +226,7 @@
     {
         "nome_categoria": "Humor",
         "maior_preco": 55.5,
+        "maior_preco_formatado": "£55.50",
         "livro_mais_caro": "Lamb: The Gospel According to Biff, Christ's Childhood Pal",
         "url_livro": "https://books.toscrape.com/catalogue/lamb-the-gospel-according-to-biff-christs-childhood-pal_182/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/humor_30/index.html"
@@ -205,6 +234,7 @@
     {
         "nome_categoria": "Horror",
         "maior_preco": 57.86,
+        "maior_preco_formatado": "£57.86",
         "livro_mais_caro": "The Stand",
         "url_livro": "https://books.toscrape.com/catalogue/the-stand_282/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/horror_31/index.html"
@@ -212,6 +242,7 @@
     {
         "nome_categoria": "History",
         "maior_preco": 59.64,
+        "maior_preco_formatado": "£59.64",
         "livro_mais_caro": "Thomas Jefferson and the Tripoli Pirates: The Forgotten War That Changed American History",
         "url_livro": "https://books.toscrape.com/catalogue/thomas-jefferson-and-the-tripoli-pirates-the-forgotten-war-that-changed-american-history_867/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/history_32/index.html"
@@ -219,6 +250,7 @@
     {
         "nome_categoria": "Food and Drink",
         "maior_preco": 59.92,
+        "maior_preco_formatado": "£59.92",
         "livro_mais_caro": "The Barefoot Contessa Cookbook",
         "url_livro": "https://books.toscrape.com/catalogue/the-barefoot-contessa-cookbook_440/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/food-and-drink_33/index.html"
@@ -226,6 +258,7 @@
     {
         "nome_categoria": "Christian Fiction",
         "maior_preco": 49.97,
+        "maior_preco_formatado": "£49.97",
         "livro_mais_caro": "If I Run (If I Run #1)",
         "url_livro": "https://books.toscrape.com/catalogue/if-i-run-if-i-run-1_174/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/christian-fiction_34/index.html"
@@ -233,6 +266,7 @@
     {
         "nome_categoria": "Business",
         "maior_preco": 51.74,
+        "maior_preco_formatado": "£51.74",
         "livro_mais_caro": "Rich Dad, Poor Dad",
         "url_livro": "https://books.toscrape.com/catalogue/rich-dad-poor-dad_483/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/business_35/index.html"
@@ -240,6 +274,7 @@
     {
         "nome_categoria": "Biography",
         "maior_preco": 48.19,
+        "maior_preco_formatado": "£48.19",
         "livro_mais_caro": "Benjamin Franklin: An American Life",
         "url_livro": "https://books.toscrape.com/catalogue/benjamin-franklin-an-american-life_460/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/biography_36/index.html"
@@ -247,6 +282,7 @@
     {
         "nome_categoria": "Thriller",
         "maior_preco": 59.71,
+        "maior_preco_formatado": "£59.71",
         "livro_mais_caro": "The Bone Hunters (Lexy Vaughan & Steven Macaulay #2)",
         "url_livro": "https://books.toscrape.com/catalogue/the-bone-hunters-lexy-vaughan-steven-macaulay-2_343/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/thriller_37/index.html"
@@ -254,6 +290,7 @@
     {
         "nome_categoria": "Contemporary",
         "maior_preco": 52.79,
+        "maior_preco_formatado": "£52.79",
         "livro_mais_caro": "Someone Like You (The Harrisons #2)",
         "url_livro": "https://books.toscrape.com/catalogue/someone-like-you-the-harrisons-2_735/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/contemporary_38/index.html"
@@ -261,6 +298,7 @@
     {
         "nome_categoria": "Spirituality",
         "maior_preco": 55.65,
+        "maior_preco_formatado": "£55.65",
         "livro_mais_caro": "A New Earth: Awakening to Your Life's Purpose",
         "url_livro": "https://books.toscrape.com/catalogue/a-new-earth-awakening-to-your-lifes-purpose_311/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/spirituality_39/index.html"
@@ -268,6 +306,7 @@
     {
         "nome_categoria": "Academic",
         "maior_preco": 13.12,
+        "maior_preco_formatado": "£13.12",
         "livro_mais_caro": "Logan Kade (Fallen Crest High #5.5)",
         "url_livro": "https://books.toscrape.com/catalogue/logan-kade-fallen-crest-high-55_384/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/academic_40/index.html"
@@ -275,6 +314,7 @@
     {
         "nome_categoria": "Self Help",
         "maior_preco": 52.15,
+        "maior_preco_formatado": "£52.15",
         "livro_mais_caro": "Overload: How to Unplug, Unwind, and Unleash Yourself from the Pressure of Stress",
         "url_livro": "https://books.toscrape.com/catalogue/overload-how-to-unplug-unwind-and-unleash-yourself-from-the-pressure-of-stress_725/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/self-help_41/index.html"
@@ -282,6 +322,7 @@
     {
         "nome_categoria": "Historical",
         "maior_preco": 29.87,
+        "maior_preco_formatado": "£29.87",
         "livro_mais_caro": "All the Light We Cannot See",
         "url_livro": "https://books.toscrape.com/catalogue/all-the-light-we-cannot-see_660/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/historical_42/index.html"
@@ -289,6 +330,7 @@
     {
         "nome_categoria": "Christian",
         "maior_preco": 54.0,
+        "maior_preco_formatado": "£54.00",
         "livro_mais_caro": "(Un)Qualified: How God Uses Broken People to Do Big Things",
         "url_livro": "https://books.toscrape.com/catalogue/unqualified-how-god-uses-broken-people-to-do-big-things_873/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/christian_43/index.html"
@@ -296,6 +338,7 @@
     {
         "nome_categoria": "Suspense",
         "maior_preco": 58.33,
+        "maior_preco_formatado": "£58.33",
         "livro_mais_caro": "Silence in the Dark (Logan Point #4)",
         "url_livro": "https://books.toscrape.com/catalogue/silence-in-the-dark-logan-point-4_542/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/suspense_44/index.html"
@@ -303,6 +346,7 @@
     {
         "nome_categoria": "Short Stories",
         "maior_preco": 35.88,
+        "maior_preco_formatado": "£35.88",
         "livro_mais_caro": "The Grownup",
         "url_livro": "https://books.toscrape.com/catalogue/the-grownup_546/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/short-stories_45/index.html"
@@ -310,6 +354,7 @@
     {
         "nome_categoria": "Novels",
         "maior_preco": 54.81,
+        "maior_preco_formatado": "£54.81",
         "livro_mais_caro": "Suzie Snowflake: One beautiful flake (a self-esteem story)",
         "url_livro": "https://books.toscrape.com/catalogue/suzie-snowflake-one-beautiful-flake-a-self-esteem-story_568/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/novels_46/index.html"
@@ -317,6 +362,7 @@
     {
         "nome_categoria": "Health",
         "maior_preco": 54.07,
+        "maior_preco_formatado": "£54.07",
         "livro_mais_caro": "Eat Fat, Get Thin",
         "url_livro": "https://books.toscrape.com/catalogue/eat-fat-get-thin_688/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/health_47/index.html"
@@ -324,6 +370,7 @@
     {
         "nome_categoria": "Politics",
         "maior_preco": 56.86,
+        "maior_preco_formatado": "£56.86",
         "livro_mais_caro": "Equal Is Unfair: America's Misguided Fight Against Income Inequality",
         "url_livro": "https://books.toscrape.com/catalogue/equal-is-unfair-americas-misguided-fight-against-income-inequality_617/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/politics_48/index.html"
@@ -331,6 +378,7 @@
     {
         "nome_categoria": "Cultural",
         "maior_preco": 36.58,
+        "maior_preco_formatado": "£36.58",
         "livro_mais_caro": "Amid the Chaos",
         "url_livro": "https://books.toscrape.com/catalogue/amid-the-chaos_788/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/cultural_49/index.html"
@@ -338,6 +386,7 @@
     {
         "nome_categoria": "Erotica",
         "maior_preco": 19.19,
+        "maior_preco_formatado": "£19.19",
         "livro_mais_caro": "Dark Notes",
         "url_livro": "https://books.toscrape.com/catalogue/dark-notes_800/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/erotica_50/index.html"
@@ -345,6 +394,7 @@
     {
         "nome_categoria": "Crime",
         "maior_preco": 10.97,
+        "maior_preco_formatado": "£10.97",
         "livro_mais_caro": "The Long Shadow of Small Ghosts: Murder and Memory in an American City",
         "url_livro": "https://books.toscrape.com/catalogue/the-long-shadow-of-small-ghosts-murder-and-memory-in-an-american-city_848/index.html",
         "categoria_url": "https://books.toscrape.com/catalogue/category/books/crime_51/index.html"
